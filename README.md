@@ -19,3 +19,6 @@ Tools: Git, GitHub, Microsoft Office
 LinkedIn: [www.linkedin.com/in/maha-fariz]
 
 💻 My Projects :
+
+[Python Technical Guide Project](./python-tech-guide-project/)
+A responsive technical documentation site focused on Python programming basics.Technologies: HTML5, CSS3.
