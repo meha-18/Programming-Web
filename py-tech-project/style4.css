@@ -1,0 +1,29 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fadb2e; 
+    text-align: center;
+}
+body{
+    background-image:url(logo.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 7); padding: 20px;
+    font-size: large; 
+}
+h2{
+    color: rgb(250, 40, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    color: rgb(52, 15, 140);
+}
+a{
+    color: chartreuse;
+    text-decoration: none;
+}
+legend{
+    color: rgb(165, 74, 9);
+}
+label{
+    color: rgb(83, 78, 78);
+}
